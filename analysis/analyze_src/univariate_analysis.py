@@ -1,6 +1,6 @@
 from abc import ABC , abstractmethod
 
-import matplotlib.pylot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
